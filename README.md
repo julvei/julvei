@@ -7,6 +7,10 @@
 ## What I currently learn
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"> <img src="https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="arch">
 
+## My quirks
+* Since 2015 I have changed my keyboard layout to the German [neo-layout](https://www.neo-layout.org/), which I extremly appreciate as programmer. It's natively available for linux!
+* Mainly I work on my private [gitea server](https://gitea.io/en-us/), therefore github is not as frequently used by me.
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
